@@ -1,0 +1,24 @@
+{
+  "observed_at": "2026-11-15T23:48:14.988993+00:00",
+  "command": "health",
+  "reports": [
+    {
+      "provider": "provider_1",
+      "state": "ok",
+      "chain_id": 97,
+      "block_height": 142963537,
+      "block_age_seconds": 1.8,
+      "probe_latency_ms": 307.7,
+      "relative_lag_blocks": 0
+    },
+    {
+      "provider": "provider_2",
+      "state": "ok",
+      "chain_id": 97,
+      "block_height": 142963537,
+      "block_age_seconds": 2.0,
+      "probe_latency_ms": 219.2,
+      "relative_lag_blocks": 0
+    }
+  ]
+}
